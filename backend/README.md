@@ -28,7 +28,7 @@ This is the backend part of the `pxs` project, which is built using FastAPI. The
 
 4. **Install dependencies:**
    ```
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 ## Usage
