@@ -35,7 +35,7 @@ This is the backend part of the `pxs` project, which is built using FastAPI. The
 
 To run the FastAPI application, execute the following command:
 ```
-python app.py
+python3 app.py
 ```
 
 Or run directly with Uvicorn:
